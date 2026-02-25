@@ -1,3 +1,4 @@
+#
 # My-first-python-rpg
 
 Hello github, im franz, im 15 year old, and this is my first project in python. a text-based test game using OOP.
